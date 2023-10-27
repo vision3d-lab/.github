@@ -28,7 +28,7 @@ Students
 - Jeongin Park
 - Jaehyeok Shim([github](https://github.com/kitsunetic))
 
-## Recent Publishments
+## Recent Publications
 
 [ICCV 2023] [Slabins: Fisheye Depth Estimation using Slanted Bins on Road Environments](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.html)
 
