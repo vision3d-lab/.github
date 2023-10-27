@@ -5,28 +5,28 @@
 ## Members
 
 Professor
-- [Kyungdon Joo]()
+- Kyungdon Joo
 
 Students
-- [Changwoo Kang]()
-- [Inha Lee]()
-- [Gyeongsu Cho]()
-- [Seongoh Lee]()
-- [Jongsung Lee]()
-- [Jaehoon Jang](https://github.com/jjhooon)
-- [Kyongjun Kim](https://github.com/kimkj38)
-- [Harin Park]()
-- [Sangjune Park](https://github.com/JJukE)
-- [Hyungyu Park]()
-- [Minje Kim]()
-- [Dongjun Gu]()
-- [Junsu Kim]()
-- [Seungoh Han](https://github.com/seungOh)
-- [Jinhyeok Kim]()
-- [Junhee Lee]()
-- [Minseok Kim]()
-- [Jeongin Park]()
-- [Jaehyeok Shim]()
+- Changwoo Kang
+- Inha Lee
+- Gyeongsu Cho
+- Seongoh Lee
+- Jongsung Lee
+- Jaehoon Jang([github](https://github.com/jjhooon))
+- Kyongjun Kim([github](https://github.com/kimkj38))
+- Harin Park
+- Sangjune Park([github](https://github.com/JJukE))
+- Hyungyu Park
+- Minje Kim
+- Dongjun Gu
+- Junsu Kim
+- Seungoh Han([github](https://github.com/seungOh))
+- Jinhyeok Kim
+- Junhee Lee
+- Minseok Kim
+- Jeongin Park
+- Jaehyeok Shim([github](https://github.com/kitsunetic))
 
 ## Recent Publishments
 
