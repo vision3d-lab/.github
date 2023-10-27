@@ -1,1 +1,37 @@
-# .github
+# 3D Vision and Robotics Lab
+
+<a href="https://unist.info/" target="_blank"><img src="https://img.shields.io/badge/Homepage-7fffd4?style=plastic&logo=Gunicorn&logoColor=000000"/></a>
+
+## Members
+
+Professor
+- [Kyungdon Joo]()
+
+Students
+- [Changwoo Kang]()
+- [Inha Lee]()
+- [Gyeongsu Cho]()
+- [Seongoh Lee]()
+- [Jongsung Lee]()
+- [Jaehoon Jang](https://github.com/jjhooon)
+- [Kyongjun Kim](https://github.com/kimkj38)
+- [Harin Park]()
+- [Sangjune Park](https://github.com/JJukE)
+- [Hyungyu Park]()
+- [Minje Kim]()
+- [Dongjun Gu]()
+- [Junsu Kim]()
+- [Seungoh Han](https://github.com/seungOh)
+- [Jinhyeok Kim]()
+- [Junhee Lee]()
+- [Minseok Kim]()
+- [Jeongin Park]()
+- [Jaehyeok Shim]()
+
+## Recent Publishments
+
+[ICCV 2023] [Slabins: Fisheye Depth Estimation using Slanted Bins on Road Environments](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.html)
+
+[CVPR 2023] [Diffusion-based Signed Distance Fields for 3D Shape Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Shim_Diffusion-Based_Signed_Distance_Fields_for_3D_Shape_Generation_CVPR_2023_paper.html)
+
+[AAAI 2023] [Pose-guided 3D Human Generation in Indoor Scene](https://ojs.aaai.org/index.php/AAAI/article/view/25195)
