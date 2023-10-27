@@ -16,7 +16,7 @@ Students
 - Jaehoon Jang([github](https://github.com/jjhooon))
 - Kyongjun Kim([github](https://github.com/kimkj38))
 - Harin Park
-- Sangjune Park([github](https://github.com/JJukE))
+- Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Hyungyu Park
 - Minje Kim
 - Dongjun Gu
