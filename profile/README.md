@@ -18,10 +18,10 @@ Students
 - Harin Park
 - Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Hyungyu Park
-- Minje Kim
+- Minje Kim([github](https://github.com/minje-KIM))
 - Dongjun Gu
 - Junsu Kim
-- Seungoh Han([github](https://github.com/seungOh))
+- Seungoh Han([github](https://github.com/seung0h))
 - Jinhyeok Kim
 - Junhee Lee
 - Minseok Kim
