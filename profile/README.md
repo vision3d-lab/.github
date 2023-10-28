@@ -12,7 +12,7 @@ Students
 - Inha Lee
 - Gyeongsu Cho
 - Seongoh Lee
-- Jongsung Lee
+- Jongsung Lee([github](https://github.com/Syniez))
 - Jaehoon Jang([github](https://github.com/jjhooon))
 - Kyongjun Kim([github](https://github.com/kimkj38))
 - Harin Park
