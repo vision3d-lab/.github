@@ -8,7 +8,7 @@ Professor
 - Kyungdon Joo
 
 Students
-- Changwoo Kang
+- Changwoo Kang([github](https://github.com/Kang-ChangWoo))
 - Inha Lee
 - Gyeongsu Cho
 - Seongoh Lee
