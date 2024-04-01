@@ -9,7 +9,7 @@ Professor
 
 Students
 - Changwoo Kang([github](https://github.com/Kang-ChangWoo))
-- Inha Lee
+- Inha Lee([github](https://github.com/epsilon8854))
 - Gyeongsu Cho
 - Seongoh Lee
 - Jongsung Lee([github](https://github.com/Syniez))
@@ -19,16 +19,24 @@ Students
 - Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Hyungyu Park
 - Minje Kim([github](https://github.com/minje-KIM))
-- Dongjun Gu
+- Dongjun Gu([github](https://github.com/dongjunKu))
 - Junsu Kim
 - Seungoh Han([github](https://github.com/seung0h))
-- Jinhyeok Kim
+- Jinhyeok Kim([github](https://github.com/))
 - Junhee Lee
 - Minseok Kim
 - Jeongin Park
 - Jaehyeok Shim([github](https://github.com/kitsunetic))
 
 ## Recent Publications
+
+[CVPR 2024] [DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2403.05005)
+
+[RA-L 2024] [AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes](https://arxiv.org/abs/2403.01861)
+
+[ICASSP 2024] [Fracture Assembly with Segmentation and Iterative Registration](https://www.sciencedirect.com/science/article/pii/S0010448520301561)
+
+[AAAI 2024] [ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://arxiv.org/abs/2401.17212)
 
 [ICCV 2023] [Slabins: Fisheye Depth Estimation using Slanted Bins on Road Environments](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.html)
 
