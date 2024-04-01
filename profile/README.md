@@ -22,7 +22,7 @@ Students
 - Dongjun Gu([github](https://github.com/dongjunKu))
 - Junsu Kim
 - Seungoh Han([github](https://github.com/seung0h))
-- Jinhyeok Kim([github](https://github.com/))
+- Jinhyeok Kim([github](https://github.com/jk4011))
 - Junhee Lee
 - Minseok Kim
 - Jeongin Park
