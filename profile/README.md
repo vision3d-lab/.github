@@ -23,7 +23,7 @@ Students
 - Junsu Kim([github](https://github.com/joonsu0109gh))
 - Seungoh Han([github](https://github.com/seung0h))
 - Jinhyeok Kim([github](https://github.com/jk4011))
-- Junhee Lee
+- Junhee Lee([github](https://github.com/junhee98))
 - Minseok Kim
 - Jeongin Park
 - Jaehyeok Shim([github](https://github.com/kitsunetic))
