@@ -25,7 +25,7 @@ Students (including researchers)
 - Jinhyeok Kim([github](https://github.com/jk4011))
 - Junhee Lee([github](https://github.com/junhee98))
 - Youngwoo Jeon([github](https://github.com/wowo0709))
-- Yongjun Choi
+- Yongjun Choi([github](https://github.com/beautifulchoi))
 - Jeongin Park
 - Jaehyeok Shim([github](https://github.com/kitsunetic))
 
