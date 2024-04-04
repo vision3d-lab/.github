@@ -20,7 +20,7 @@ Students
 - Hyungyu Park
 - Minje Kim([github](https://github.com/minje-KIM))
 - Dongjun Gu([github](https://github.com/dongjunKu))
-- Junsu Kim
+- Junsu Kim([github](https://github.com/joonsu0109gh))
 - Seungoh Han([github](https://github.com/seung0h))
 - Jinhyeok Kim([github](https://github.com/jk4011))
 - Junhee Lee
