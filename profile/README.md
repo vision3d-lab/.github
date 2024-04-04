@@ -7,8 +7,9 @@
 Professor
 - Kyungdon Joo
 
-Students
+Students (including researchers)
 - Changwoo Kang([github](https://github.com/Kang-ChangWoo))
+- Hyungyu Park
 - Inha Lee([github](https://github.com/epsilon8854))
 - Gyeongsu Cho
 - Seongoh Lee
@@ -17,16 +18,19 @@ Students
 - Kyongjun Kim([github](https://github.com/kimkj38))
 - Harin Park
 - Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
-- Hyungyu Park
 - Minje Kim([github](https://github.com/minje-KIM))
 - Dongjun Gu([github](https://github.com/dongjunKu))
 - Junsu Kim([github](https://github.com/joonsu0109gh))
 - Seungoh Han([github](https://github.com/seung0h))
 - Jinhyeok Kim([github](https://github.com/jk4011))
 - Junhee Lee([github](https://github.com/junhee98))
-- Minseok Kim
+- Youngwoo Jeon([github](https://github.com/wowo0709))
+- Yongjun Choi
 - Jeongin Park
 - Jaehyeok Shim([github](https://github.com/kitsunetic))
+
+Alumni
+- Minseok Kim
 
 ## Recent Publications
 
