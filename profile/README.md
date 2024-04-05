@@ -38,7 +38,7 @@ Alumni
 
 [RA-L 2024] [AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes](https://arxiv.org/abs/2403.01861)
 
-[ICASSP 2024] [Fracture Assembly with Segmentation and Iterative Registration](https://www.sciencedirect.com/science/article/pii/S0010448520301561)
+[ICASSP 2024] [Fracture Assembly with Segmentation and Iterative Registration](https://ieeexplore.ieee.org/abstract/document/10447659)
 
 [AAAI 2024] [ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://arxiv.org/abs/2401.17212)
 
