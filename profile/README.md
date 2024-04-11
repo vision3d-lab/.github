@@ -11,12 +11,12 @@ Students (including researchers)
 - Changwoo Kang([github](https://github.com/Kang-ChangWoo))
 - Hyungyu Park
 - Inha Lee([github](https://github.com/epsilon8854))
-- Gyeongsu Cho
+- Gyeongsu Cho([github](https://github.com/Threedv))
 - Seongoh Lee
 - Jongsung Lee([github](https://github.com/Syniez))
 - Jaehoon Jang([github](https://github.com/jjhooon))
 - Kyongjun Kim([github](https://github.com/kimkj38))
-- Harin Park
+- Harin Park([github](https://github.com/Harin99))
 - Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Minje Kim([github](https://github.com/minje-KIM))
 - Dongjun Gu([github](https://github.com/dongjunKu))
