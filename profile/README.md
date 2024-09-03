@@ -17,7 +17,6 @@ Students (including researchers)
 - Seongoh Lee ([github]())
 - Jongsung Lee ([github](https://github.com/Syniez))
 - Jaehoon Jang ([github](https://github.com/jjhooon))
-- Kyongjun Kim ([github](https://github.com/kimkj38))
 - Harin Park ([github](https://github.com/Harin99))
 - Sangjune Park ([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Minje Kim ([github](https://github.com/minje-KIM))
@@ -29,9 +28,12 @@ Students (including researchers)
 - Youngwoo Jeon ([github](https://github.com/wowo0709))
 - Yongjun Choi ([github](https://github.com/beautifulchoi))
 - Jaehun Bang ([github](https://github.com/devappendCBangJ))
+- Minji Kim ([github](https://github.com/MinjiK11))
+- Jeongeon Lee ([github](https://github.com/LedersonLee))
 
 Alumni
 - Minseok Kim
+- Kyongjun Kim ([github](https://github.com/kimkj38))
 
 ## Recent Publications
 
