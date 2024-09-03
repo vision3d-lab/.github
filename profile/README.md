@@ -8,26 +8,27 @@ Professor
 - Kyungdon Joo
 
 Students (including researchers)
-- Changwoo Kang([github](https://github.com/Kang-ChangWoo))
-- Hyungyu Park
-- Inha Lee([github](https://github.com/epsilon8854))
-- Gyeongsu Cho([github](https://github.com/Threedv))
-- Seongoh Lee
-- Jongsung Lee([github](https://github.com/Syniez))
-- Jaehoon Jang([github](https://github.com/jjhooon))
-- Kyongjun Kim([github](https://github.com/kimkj38))
-- Harin Park([github](https://github.com/Harin99))
-- Sangjune Park([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
-- Minje Kim([github](https://github.com/minje-KIM))
-- Dongjun Gu([github](https://github.com/dongjunKu))
-- Junsu Kim([github](https://github.com/joonsu0109gh))
-- Seungoh Han([github](https://github.com/seung0h))
-- Jinhyeok Kim([github](https://github.com/jk4011))
-- Junhee Lee([github](https://github.com/junhee98))
-- Youngwoo Jeon([github](https://github.com/wowo0709))
-- Yongjun Choi([github](https://github.com/beautifulchoi))
-- Jeongin Park
-- Jaehyeok Shim([github](https://github.com/kitsunetic))
+- Jeongin Park ([github](https://github.com/Jeongin-park))
+- Changwoo Kang ([github](https://github.com/Kang-ChangWoo))
+- Hyungyu Park ([github](https://github.com/Hyun-gyu))
+- Inha Lee ([github](https://github.com/epsilon8854))
+- Jaehyeok Shim ([github](https://github.com/kitsunetic))
+- Gyeongsu Cho ([github](https://github.com/Threedv))
+- Seongoh Lee ([github]())
+- Jongsung Lee ([github](https://github.com/Syniez))
+- Jaehoon Jang ([github](https://github.com/jjhooon))
+- Kyongjun Kim ([github](https://github.com/kimkj38))
+- Harin Park ([github](https://github.com/Harin99))
+- Sangjune Park ([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
+- Minje Kim ([github](https://github.com/minje-KIM))
+- Dongjun Gu ([github](https://github.com/dongjunKu))
+- Junsu Kim ([github](https://github.com/joonsu0109gh))
+- Seungoh Han ([github](https://github.com/seung0h))
+- Jinhyeok Kim ([github](https://github.com/jk4011))
+- Junhee Lee ([github](https://github.com/junhee98))
+- Youngwoo Jeon ([github](https://github.com/wowo0709))
+- Yongjun Choi ([github](https://github.com/beautifulchoi))
+- Jaehun Bang ([github](https://github.com/devappendCBangJ))
 
 Alumni
 - Minseok Kim
