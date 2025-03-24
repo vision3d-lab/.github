@@ -7,8 +7,7 @@
 Professor
 - Kyungdon Joo
 
-Students (including researchers)
-- Jeongin Park ([github](https://github.com/Jeongin-park))
+Students & Researchers
 - Changwoo Kang ([github](https://github.com/Kang-ChangWoo))
 - Hyungyu Park ([github](https://github.com/Hyun-gyu))
 - Inha Lee ([github](https://github.com/epsilon8854))
@@ -16,10 +15,7 @@ Students (including researchers)
 - Gyeongsu Cho ([github](https://github.com/Threedv))
 - Seongoh Lee ([github]())
 - Jongsung Lee ([github](https://github.com/Syniez))
-- Jaehoon Jang ([github](https://github.com/jjhooon))
-- Harin Park ([github](https://github.com/Harin99))
 - Sangjune Park ([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
-- Minje Kim ([github](https://github.com/minje-KIM))
 - Dongjun Gu ([github](https://github.com/dongjunKu))
 - Junsu Kim ([github](https://github.com/joonsu0109gh))
 - Seungoh Han ([github](https://github.com/seung0h))
@@ -30,12 +26,22 @@ Students (including researchers)
 - Jaehun Bang ([github](https://github.com/devappendCBangJ))
 - Minji Kim ([github](https://github.com/MinjiK11))
 - Jeongeon Lee ([github](https://github.com/LedersonLee))
+- Taehun Ryu ([github](https://github.com/taehun-ryu))
+- Yujin Park ([github](https://github.com/yujinpark21))
+- Ganghyeon Lee ([github](https://github.com/rkdgus0))
+- Inhyeok Choi ([github](https://github.com/inhyeok2932))
 
 Alumni
-- Minseok Kim
+- Minseok Kim ([github](https://github.com/bupyeonghealer))
+- Jeongin Park ([github](https://github.com/Jeongin-park))
 - Kyongjun Kim ([github](https://github.com/kimkj38))
+- Jaehoon Jang ([github](https://github.com/jjhooon))
+- Harin Park ([github](https://github.com/Harin99))
+- Minje Kim ([github](https://github.com/minje-KIM))
 
 ## Recent Publications
+
+[RA-L 2024] [A Benchmark Dataset for Collaborative SLAM in Service Environments](https://arxiv.org/abs/2411.14775)
 
 [CVPR 2024] [DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2403.05005)
 
