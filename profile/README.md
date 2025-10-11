@@ -19,7 +19,7 @@ Students & Researchers
 - Seungoh Han ([github](https://github.com/seung0h))
 - Junhee Lee ([github](https://github.com/junhee98))
 - Youngwoo Jeon ([github](https://github.com/wowo0709))
-- Yongjun Choi ([github](https://github.com/beautifulchoi), [homepage](https://beutifulchoi.github.io/))
+- Yongjun Choi ([github](https://github.com/beautifulchoi), [homepage](https://beautifulchoi.github.io/))
 - Jaehun Bang ([github](https://github.com/devappendCBangJ))
 - Minji Kim ([github](https://github.com/MinjiK11))
 - Jeongeon Lee ([github](https://github.com/LedersonLee))
