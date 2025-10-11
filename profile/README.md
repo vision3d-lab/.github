@@ -16,6 +16,7 @@ Students & Researchers
 - Jongsung Lee ([github](https://github.com/Syniez))
 - Sangjune Park ([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
 - Junsu Kim ([github](https://github.com/joonsu0109gh))
+- Dongjun Gu ([github](https://github.com/dongjunKu))
 - Seungoh Han ([github](https://github.com/seung0h))
 - Junhee Lee ([github](https://github.com/junhee98))
 - Youngwoo Jeon ([github](https://github.com/wowo0709))
@@ -39,9 +40,14 @@ Alumni
 - Minje Kim ([github](https://github.com/minje-KIM))
 - Seongoh Lee ([github]())
 - Jinhyeok Kim ([github](https://github.com/jk4011))
-- Dongjun Gu ([github](https://github.com/dongjunKu))
 
 ## Recent Publications
+
+[SIGGRAPH Asia 2025] [DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image](https://arxiv.org/abs/2509.22222)
+
+[IROS 2025] [VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2408.03551)
+
+[IJCV 2025] [DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction From A Single Image](https://link.springer.com/article/10.1007/s11263-025-02485-5)
 
 [CVPR 2025] [HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_HUSH_Holistic_Panoramic_3D_Scene_Understanding_using_Spherical_Harmonics_CVPR_2025_paper.html)
 
