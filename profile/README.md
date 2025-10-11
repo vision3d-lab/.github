@@ -30,6 +30,7 @@ Students & Researchers
 - Inhyeok Choi ([github](https://github.com/inhyeok2932))
 - Chanwoo Lee ([github](https://github.com/c0zyb1ue))
 - Seunghyeon Seo ([github](https://github.com/shs332))
+- Seungheon Jeong ([github](https://github.com/JeongSeungHeon))
 
 Alumni
 - Minseok Kim ([github](https://github.com/bupyeonghealer))
