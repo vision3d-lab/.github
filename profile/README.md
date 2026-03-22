@@ -14,10 +14,8 @@ Students & Researchers
 - Jaehyeok Shim ([github](https://github.com/kitsunetic))
 - Gyeongsu Cho ([github](https://github.com/Threedv))
 - Jongsung Lee ([github](https://github.com/Syniez))
-- Sangjune Park ([github](https://github.com/JJukE), [blog](https://jjuke-brain.tistory.com/))
+- Sangjune Park ([github](https://github.com/JJukE), [homepage](https://jjuke.github.io/))
 - Junsu Kim ([github](https://github.com/joonsu0109gh))
-- Dongjun Gu ([github](https://github.com/dongjunKu))
-- Seungoh Han ([github](https://github.com/seung0h))
 - Junhee Lee ([github](https://github.com/junhee98))
 - Youngwoo Jeon ([github](https://github.com/wowo0709))
 - Yongjun Choi ([github](https://github.com/beautifulchoi), [homepage](https://beautifulchoi.github.io/))
@@ -31,6 +29,9 @@ Students & Researchers
 - Chanwoo Lee ([github](https://github.com/c0zyb1ue))
 - Seunghyeon Seo ([github](https://github.com/shs332))
 - Seungheon Jeong ([github](https://github.com/JeongSeungHeon))
+- Dongjae Jeong ([github](https://github.com/D2-Bro))
+- Chaeeun Moon ([github](https://github.com/sandmartspinoff))
+- Juhan Oh ([github](https://github.com/sumjingangcat))
 
 Alumni
 - Minseok Kim ([github](https://github.com/bupyeonghealer))
@@ -39,10 +40,22 @@ Alumni
 - Jaehoon Jang ([github](https://github.com/jjhooon))
 - Harin Park ([github](https://github.com/Harin99))
 - Minje Kim ([github](https://github.com/minje-KIM))
-- Seongoh Lee ([github]())
 - Jinhyeok Kim ([github](https://github.com/jk4011))
+- Seungoh Han ([github](https://github.com/seung0h))
 
 ## Recent Publications
+
+[ICRA 2026] [Prior-Constrained Explorative Guidance for Generalization in Diffusion Motion Planning]()
+
+[WACV 2026] [Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model](https://openaccess.thecvf.com/content/WACV2026/html/Park_Not_Like_Transformers_Drop_the_Beat_Representation_for_Dance_Generation_WACV_2026_paper.html)
+
+[WACV 2026] [LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Capture](https://openaccess.thecvf.com/content/WACV2026/html/Han_LighthouseGS_Indoor_Structure-aware_3D_Gaussian_Splatting_for_Panorama-Style_Mobile_Captures_WACV_2026_paper.html)
+
+[WACV 2026] [AnyBald: Toward Realistic Diffusion-Based Hair Removal In-The-Wild](https://openaccess.thecvf.com/content/WACV2026/html/Choi_AnyBald_Toward_Realistic_Diffusion-Based_Hair_Removal_In-The-Wild_WACV_2026_paper.html)
+
+[WACV 2026] [Beyond the Highlights: Video Retrieval with Salient and Surrounding Contexts](https://openaccess.thecvf.com/content/WACV2026/html/Bang_Beyond_the_Highlights_Video_Retrieval_with_Salient_and_Surrounding_Contexts_WACV_2026_paper.html)
+
+[WACV 2026] [Pose-Diverse Multi-View Virtual Try-on from a Single Frontal Image via Diffusion Transformer](https://openaccess.thecvf.com/content/WACV2026/html/Han_Pose-Diverse_Multi-View_Virtual_Try-on_from_a_Single_Frontal_Image_via_WACV_2026_paper.html)
 
 [SIGGRAPH Asia 2025] [DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image](https://arxiv.org/abs/2509.22222)
 
