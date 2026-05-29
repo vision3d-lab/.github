@@ -25,7 +25,7 @@ Students & Researchers
 - Taehun Ryu ([github](https://github.com/taehun-ryu))
 - Yujin Park ([github](https://github.com/yujinpark21))
 - Ganghyeon Lee ([github](https://github.com/rkdgus0))
-- Inhyeok Choi ([github](https://github.com/inhyeok2932))
+- Inhyeok Choi ([github](https://github.com/inhyeok-choi))
 - Chanwoo Lee ([github](https://github.com/c0zyb1ue))
 - Seunghyeon Seo ([github](https://github.com/shs332))
 - Seungheon Jeong ([github](https://github.com/JeongSeungHeon))
