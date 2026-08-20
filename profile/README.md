@@ -32,6 +32,10 @@ Students & Researchers
 - Dongjae Jeong ([github](https://github.com/D2-Bro))
 - Chaeeun Moon ([github](https://github.com/sandmartspinoff))
 - Juhan Oh ([github](https://github.com/sumjingangcat))
+- Aron Lee ([github](https://github.com/Aronvision))
+- Jeonghwan Lee ([github](https://github.com/dirac042), [blog](https://dirac042.github.io/))
+- Dongkyu Doo ([github](https://github.com/dooeverything))
+- Sebin Lee ([github](https://github.com/sebinyday), [homepage](https://sebinyday.github.io/))
 
 Alumni
 - Minseok Kim ([github](https://github.com/bupyeonghealer))
