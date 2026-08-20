@@ -18,7 +18,6 @@ Students & Researchers
 - Junsu Kim ([github](https://github.com/joonsu0109gh))
 - Junhee Lee ([github](https://github.com/junhee98))
 - Youngwoo Jeon ([github](https://github.com/wowo0709))
-- Yongjun Choi ([github](https://github.com/beautifulchoi), [homepage](https://beautifulchoi.github.io/))
 - Jaehun Bang ([github](https://github.com/devappendCBangJ))
 - Minji Kim ([github](https://github.com/MinjiK11))
 - Jeongeon Lee ([github](https://github.com/LedersonLee))
@@ -46,6 +45,7 @@ Alumni
 - Minje Kim ([github](https://github.com/minje-KIM))
 - Jinhyeok Kim ([github](https://github.com/jk4011))
 - Seungoh Han ([github](https://github.com/seung0h))
+- Yongjun Choi ([github](https://github.com/beautifulchoi), [homepage](https://beautifulchoi.github.io/))
 
 ## Recent Publications
 
