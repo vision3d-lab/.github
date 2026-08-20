@@ -49,6 +49,16 @@ Alumni
 
 ## Recent Publications
 
+[TMLR 2026] [Trip-to-Gaussian: A Versatile Framework for Unconditional 3D Generation](https://openreview.net/forum?id=9uL23Jcjvj)
+
+[ECCV 2026] [UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization](https://arxiv.org/abs/2608.01706)
+
+[ECCV 2026] [FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity](https://arxiv.org/abs/2608.01129)
+
+[CVPR 2026] [From Corners to Fiducial Tags: Revisiting Checkerboard Calibration for Event Cameras](https://openaccess.thecvf.com/content/CVPR2026/html/Ryu_From_Corners_to_Fiducial_Tags_Revisiting_Checkerboard_Calibration_for_Event_CVPR_2026_paper.html)
+
+[CVPR 2026] [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](https://openaccess.thecvf.com/content/CVPR2026/html/Bang_LightSplat_Fast_and_Memory-Efficient_Open-Vocabulary_3D_Scene_Understanding_in_Five_CVPR_2026_paper.html)
+
 [ICRA 2026] [Prior-Constrained Explorative Guidance for Generalization in Diffusion Motion Planning]()
 
 [WACV 2026] [Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model](https://openaccess.thecvf.com/content/WACV2026/html/Park_Not_Like_Transformers_Drop_the_Beat_Representation_for_Dance_Generation_WACV_2026_paper.html)
